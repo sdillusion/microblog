@@ -1,0 +1,7 @@
+#不跟踪所有class类型的文件
+#*.class
+#不跟踪下面的目录
+/node_modules/
+
+.sublime-project
+.sublime-workspace

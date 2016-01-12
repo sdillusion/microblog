@@ -1,0 +1,275 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"co",
+				"collection"
+			],
+			[
+				"v",
+				"value"
+			],
+			[
+				"pro",
+				"process"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 366.0,
+		"last_filter": "ins",
+		"selected_items":
+		[
+			[
+				"ins",
+				"Package Control: Install Package"
+			],
+			[
+				"Package Control: ",
+				"Package Control: List Packages"
+			],
+			[
+				"col",
+				"Colorsublime: Install Theme"
+			],
+			[
+				"e",
+				"Evernote: Open Evernote Note"
+			],
+			[
+				"send to e",
+				"Evernote: Send to Evernote as new note"
+			],
+			[
+				"pack",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 464.0
+	},
+	"console":
+	{
+		"height": 126.0,
+		"history":
+		[
+			"send to evernote",
+			"import  urllib.request,os;pf='Package Control.sublime-package';ipp=sublime.installed_packages_path();urllib.request.install_opener(urllib.request.build_opener(urllib.request.ProxyHandler()));open(os.path.join(ipp,pf),'wb').write(urllib.request.urlopen('http://sublime.wbond.net/'+pf.replace(' ','%20')).read())",
+			"import urllib.request,os,hashlib; h = 'eb2297e1a458f27d836c04bb0cbaf282' + 'd0e7a3098092775ccb37ca9d6b2e4b7d'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://packagecontrol.io/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)",
+			"import  urllib.request,os;pf='Package Control.sublime-package';ipp=sublime.installed_packages_path();urllib.request.install_opener(urllib.request.build_opener(urllib.request.ProxyHandler()));open(os.path.join(ipp,pf),'wb').write(urllib.request.urlopen('http://sublime.wbond.net/'+pf.replace(' ','%20')).read())",
+			"import urllib.request,os,hashlib; h = 'eb2297e1a458f27d836c04bb0cbaf282' + 'd0e7a3098092775ccb37ca9d6b2e4b7d'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://packagecontrol.io/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/D/microblog"
+	],
+	"file_history":
+	[
+		"/D/microblog/app.js",
+		"/C/Users/win_power/Desktop/pub.js",
+		"/D/GF2/projects/fu.rui/WebServer/main.cpp",
+		"/D/GF2/DataCenter/C5_C2/C5/code/web/WebServer/Tool.cpp",
+		"/D/GF2/DataCenter/C5_C2/C5/code/web/WebServer/main.cpp",
+		"/C/Users/win_power/Desktop/microblog/microblog/package.json",
+		"/C/Users/win_power/Desktop/microblog/microblog/routes/index.js",
+		"/C/Users/win_power/Desktop/microblog/microblog/app.js",
+		"/C/Users/win_power/Desktop/weibo/microblog/app.js",
+		"/C/Users/win_power/Desktop/weibo/microblog/routes/index.js",
+		"/C/Users/win_power/Desktop/weibo/microblog/views/user.ejs",
+		"/C/Users/win_power/Desktop/weibo/microblog/views/say.ejs",
+		"/C/Users/win_power/Desktop/weibo/microblog/models/post.js",
+		"/C/Users/win_power/Desktop/weibo/microblog/views/login.ejs",
+		"/C/Users/win_power/Desktop/weibo/microblog/views/posts.ejs",
+		"/C/Users/win_power/Desktop/weibo/microblog/models/user.js",
+		"/C/Users/win_power/Desktop/weibo/microblog/views/layout.ejs",
+		"/C/Users/win_power/Desktop/weibo/microblog/views/index.ejs",
+		"/C/Users/win_power/Desktop/weibo/microblog/views/reg.ejs",
+		"/C/Users/win_power/Desktop/weibo/microblog/package.json",
+		"/C/Users/win_power/Desktop/weibo/microblog/settings.js",
+		"/C/Users/win_power/Desktop/weibo/microblog/models/db.js",
+		"/C/Users/win_power/Desktop/weibo/microblog/111.js",
+		"/C/Users/win_power/AppData/Roaming/npm/node_modules/cnpm/node_modules/pangyp/bin/node-gyp.js",
+		"/C/Users/win_power/AppData/Roaming/Sublime Text 3/Packages/Default/Default (Windows).sublime-keymap",
+		"/C/Users/win_power/AppData/Roaming/Sublime Text 3/Packages/User/Default (Windows).sublime-keymap",
+		"/C/Users/win_power/AppData/Roaming/Sublime Text 3/Packages/User/Colorsublime.sublime-settings",
+		"/C/Users/win_power/AppData/Roaming/Sublime Text 3/Packages/Colorsublime/Colorsublime.sublime-settings",
+		"/C/Users/win_power/AppData/Roaming/Sublime Text 3/Packages/BracketHighlighter/bh_core.sublime-settings",
+		"/C/Users/win_power/AppData/Roaming/Sublime Text 3/Packages/SublimeLinter/SublimeLinter.sublime-settings",
+		"/C/Users/win_power/AppData/Roaming/Sublime Text 3/Packages/HTML-CSS-JS Prettify/.jsbeautifyrc",
+		"/C/Users/win_power/AppData/Roaming/Sublime Text 3/Packages/HTML-CSS-JS Prettify/HTMLPrettify.sublime-settings",
+		"/C/Users/win_power/AppData/Roaming/Sublime Text 3/Packages/Default/Preferences.sublime-settings",
+		"/C/Users/win_power/AppData/Roaming/Sublime Text 3/Packages/User/Preferences.sublime-settings",
+		"/C/Users/win_power/AppData/Roaming/Sublime Text 3/Packages/User/SublimeLinter.sublime-settings",
+		"/D/GF2/projects/fu.rui/backend/models/rpc/fault.js",
+		"/D/GF2/projects/fu.rui/backend/daemon.js",
+		"/D/GF2/projects/fu.rui/backend/process.js",
+		"/D/GF2/projects/fu.rui/backend/test.js",
+		"/C/Users/win_power/Desktop/furui/web/javascripts/g2.js",
+		"/E/git/node-wiki-gitbook/src/todo_list/views/index.ejs",
+		"/C/Users/win_power/Desktop/find.py",
+		"/C/Users/win_power/Desktop/12306订票助手.NET 跟踪日志.txt",
+		"/D/Program Files/ZeroC/IceJS-0.1.0/bin/IceWebServer.js",
+		"/C/Users/win_power/Desktop/web/javascripts/g2.js",
+		"/C/Users/win_power/Desktop/furui/多厂站逆变器接口.js",
+		"/D/Program Files/ZeroC/IceJS-0.1.0/bin/IceWebServer.ice",
+		"/D/evenote/Databases/Attachments/process.js",
+		"/C/Users/win_power/Desktop/process.js",
+		"/C/Users/win_power/AppData/Roaming/Sublime Text 3/Packages/DocBlockr/Base File.sublime-settings",
+		"/C/Users/win_power/AppData/Roaming/Sublime Text 3/Packages/User/test.enmd",
+		"/C/Users/win_power/AppData/Roaming/Sublime Text 3/Packages/User/Evernote.sublime-settings"
+	],
+	"find":
+	{
+		"height": 38.0
+	},
+	"find_in_files":
+	{
+		"height": 117.0,
+		"where_history":
+		[
+			"C:\\Users\\win_power\\AppData\\Roaming\\Sublime Text 3"
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"use",
+			"post",
+			"crypto",
+			"exports",
+			"dsf",
+			"function(req, res)",
+			"exports",
+			"b",
+			"f",
+			"81",
+			"44",
+			"getFaultByTime",
+			"queryFault"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": true,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 38.0
+	},
+	"input":
+	{
+		"height": 40.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "microblog.sublime-project",
+	"replace":
+	{
+		"height": 72.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 150.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
